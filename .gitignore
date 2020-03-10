@@ -1,0 +1,5 @@
+#ignored_folders
+__pycache__/
+
+#ignored_files
+*.log
